@@ -1,7 +1,5 @@
 # Food-Waste-Management-System
 
 A food waste management application which offers: 
-  Food Donation Option
-  Top Donors List
-  A pickup locations for the Acceptors
+  Food Donation Option, Top Donors List, Pickup locations for the Acceptors
   
